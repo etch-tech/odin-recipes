@@ -4,7 +4,7 @@
     background-color: rgb(255, 168, 168)
 }
 
-.header {
+.index-header {
     background-color: rgb(253, 182, 182);
     font-size: 50px;
     text-align: center;
@@ -28,16 +28,28 @@
     background-color: rgb(223, 161, 104);
 }
 
+.chicken-header {
+    background-color: rgb(245, 179, 118);
+}
+
 /*These are the styles for slow-cooker-pulled-pork.html*/
 
 .pork-body {
     background-color: rgb(163, 70, 54);
 }
 
+.pork-header {
+    background-color: rgb(202, 101, 84);
+}
+
 /*These are the styles for rose-petal-pound-cake.html*/
 
 .rose-body {
     background-color: rgb(107, 206, 209);
+}
+
+.rose-header {
+    background-color: rgb(130, 229, 233);
 }
 
 /*These are styles that apply to multiple .html*/
